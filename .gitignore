@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/app/page.tsx
 
 # next.js
 /.next
