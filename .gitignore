@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/components/theme-provider.tsx
 /app/page.tsx
 
 # next.js
