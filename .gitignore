@@ -2,14 +2,13 @@
 
 # dependencies
 /node_modules
-/components/route-map.tsx
 /components/stats-dashboard.tsx
 /components/snowfall.tsx
 /components/theme-provider.tsx
 /app/page.tsx
 
 # next.js
-/.next/
+/.next
 /out/
 
 # production
