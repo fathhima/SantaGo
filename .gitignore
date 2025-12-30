@@ -2,8 +2,6 @@
 
 # dependencies
 /node_modules
-/components/location-form.tsx
-/components/location-list.tsx
 /components/route-map.tsx
 /components/stats-dashboard.tsx
 /components/snowfall.tsx
