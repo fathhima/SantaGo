@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/lib/types.ts
 /lib/route-optimizer.ts
 /components/location-form.tsx
 /components/location-list.tsx
